@@ -1,0 +1,24 @@
+{
+    "name": "@unistmm/uni-node-8ihbo",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unistmm/uni-node-8ihbo.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "unistmm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unistmm/uni-node-8ihbo/issues"
+    },
+    "homepage": "https://github.com/unistmm/uni-node-8ihbo#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@unistmm/uni-node-8ihbo": "^1.0.0"
+    }
+}
